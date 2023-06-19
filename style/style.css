@@ -87,7 +87,7 @@ a {
 /*nav section done*/
 /*about-section*/
 .about {
-  background-image: url(/images/background.png);
+  background-image: url(../images/background.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
